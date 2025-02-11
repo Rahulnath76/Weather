@@ -13,7 +13,7 @@
 }
 
 .wrapper{
-    width:100vw;
+    max-width: 1024px;
     min-height:100vh;
     overflow: hidden;
     color: var(--colorLight2);
